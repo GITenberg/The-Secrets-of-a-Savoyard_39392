@@ -1,0 +1,34 @@
+_repo: The-Secrets-of-a-Savoyard_39392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lytton, Henry A.
+    aliases:
+    - Jones, Henry Albert
+    - Lytton, Henry, Sir
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '39997'
+    url: http://www.gutenberg.org/2009/agents/39997
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lytton
+description: ''
+gutenberg_issued: '2012-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39392'
+  lccn: '22009559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Savoy Theatre (London, England)'
+- !lcsh 'Sullivan, Arthur, 1842-1900. Operas'
+- !lcc 'ML'
+- !lcsh 'Lytton, Henry A., 1865-1936'
+- !lcsh 'Singers -- England -- Biography'
+title: The Secrets of a Savoyard
+url: http://www.gutenberg.org/ebooks/39392
